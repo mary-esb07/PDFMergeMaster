@@ -4,6 +4,8 @@ PDF Merge Master é uma ferramenta simples e eficiente para combinar múltiplos 
 
 *É necessário ter o Phyton instalado
 
+*****************
+
 Abrir o cmd
 
 >cd "pasta onde está o arquivo"
@@ -21,4 +23,12 @@ Using cached pypdf2-3.0.1-py3-none-any.whl (232 kB)
 Installing collected packages: PyPDF2
 Successfully installed PyPDF2-3.0.1
 
+
+****************
+
+Clicar no arquivo "executar.bat" com o botão direito e criar um atalho
+
 Executar o programa
+
+
+
